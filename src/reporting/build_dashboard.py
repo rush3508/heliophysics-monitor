@@ -25,6 +25,8 @@ from pathlib import Path
 import plotly.graph_objects as go
 from jinja2 import Template
 
+from src.reporting.solar_disc import build_solar_disc_figure
+
 from config import (
     DASHBOARD_DIR,
     DASHBOARD_DATA,
@@ -607,15 +609,15 @@ def build_dashboard() -> Path:
         "figure_html": fig_d.to_html(full_html=False, include_plotlyjs=False) if fig_d else "",
     })
 
-    # (e) Terminology card — RAG term of the day
-    term = build_terminology_card()
+    # (e) Solar disc — CME origins on Stonyhurst projection (last 30 days)
+    fig_e = build_solar_disc_figure(days=30)
     panels.append({
-        "css_class": "",
-        "title": "Term of the Day",
-        "type": "text",
-        "key": "terminology",
-        "data": term,
-        "figure_html": "",
+        "css_class": "full-width",
+        "title": "CME Origins — Solar Disc (last 30 days)",
+        "type": "plotly",
+        "key": "solar_disc",
+        "data": {},
+        "figure_html": fig_e.to_html(full_html=False, include_plotlyjs=False) if fig_e else "<p>No CME origin data available.</p>",
     })
 
     # (f) Analyst brief — rendered brief.md

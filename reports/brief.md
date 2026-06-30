@@ -2,17 +2,26 @@
 
 **Event Summary for the Latest 7 Days (24-30 June)**
 
-* Solar Flare (FLR) Events: No events recorded
-* Coronal Mass Ejections (CMEs): Total CME count for the period is 49, with a maximum speed of 936 km/s.
-* Geostorms (GST): No geomagnetic storms observed.
+* Total CME count: 49
+* Notable flare classes: No events recorded
+* Fastest CME speed: 936 km/s
+* Geomagnetic storms: None recorded
 
-**Key Terminology Explained**
+**Key Terminology Explained from Context**
 
-* **Coronal Mass Ejection (CME)**: A massive cloud of plasma and magnetic field that is ejected from the Sun's corona during a solar flare or other solar activity. CMEs can interact with Earth's magnetosphere, potentially causing geomagnetic storms.
-* **Geomagnetic Storm**: A disturbance in Earth's magnetic field caused by a CME or other space weather event. Geomagnetic storms can impact communication systems, power grids, and satellite operations.
+1. **CME**: Coronal Mass Ejection, a massive burst of plasma and magnetic field ejected from the Sun's corona.
+2. **Flare**: A sudden release of energy on the surface of the Sun, often accompanied by X-ray emissions.
 
-**What to Watch in the Coming Days**
+**What to Watch in the Coming Days Based on Recent Trends**
 
-Based on recent trends, we will continue to monitor the solar activity and forecast potential geomagnetic storms. The current period of high solar activity is expected to persist, with a moderate to high level of CME activity predicted for the next few days. We will closely watch the solar wind speed and direction to predict any potential geomagnetic storm activity.
+Given the recent increase in CME activity, it is essential to monitor the forecast for potential geomagnetic storms and their impact on Earth's magnetic field. Although no storms have been recorded so far, the fast CME speed of 936 km/s indicates a potentially significant event. We will continue to track the situation closely and provide updates as necessary.
 
-Please note that these forecasts are based on historical trends and may not necessarily reflect future events.
+**Next Steps**
+
+The Space Weather Operations, Research, and Mitigation (SWORM) Subcommittee will convene to discuss the latest trends and forecast the potential impact on Earth's magnetic field. The SWC will also solicit input from the community to inform their advice on space weather topics to the Heliophysics Division Director.
+
+**Recommendations**
+
+* Continue to monitor CME activity and flare forecasts
+* Prepare for potential geomagnetic storms by taking necessary precautions in sensitive electronic systems
+* Stay informed through regular updates from NASA's Space Weather website and social media channels
