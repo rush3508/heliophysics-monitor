@@ -1,11 +1,16 @@
-Space Weather Analyst Brief (7 days ending on June 30th, 2026): Over the past week, we have observed a significant increase in solar activity. Our data from NASA DONKI shows that there were no coronal mass ejections recorded yesterday; however, CME counts ranged between 0 and 14 over seven days with totals reaching up to 14 events per day at its peak on June 26th. The fastest speed of a solar energetic particle event was clocked at an impressive 936 km/s within the last week, indicative of highly active space weather conditions that can impact Earth's magnetosphere and technology here below.
+**Space Weather Analyst Brief – 24 June to 30 June 2026**
 
-During this period, we recorded two geomagnetic storm events (GSE), which are disturbances in Earth’s magnetic field caused by solar wind shock waves or cloud-like structures from the Sun interacting with our planet's own magnetic environment. These can lead to beautiful auroras but also pose risks for power grids and satellites due to induced electric fields on grounded objects like pipelines, transformers in electrical systems, etc.
+**Event Summary (7 Days):**
 
-Key Terminology Explained: 
-1. Coronal Mass Ejection (CME): A significant release of plasma and magnetic field from the solar corona that can travel through space as a massive bubble emanating outward from the Sun's surface into interplanetary space, potentially impacting Earth upon arrival if directed towards us by our planet’s magnetosphere.
-2. Geomagnetic Storm (GSE): A temporary disturbance of the Earth's magnetic field caused by solar wind shock waves and cloud-like structures emitted from the Sun that can affect satellites, power grids, and navigation systems on Earth when they interact with our planet’s magnetosphere during periods of intense space weather activity.
+Over the past seven days (24 June – 30 June 2026), we’ve observed a significant increase in Coronal Mass Ejections (CMEs). There were a total of 49 CMEs recorded, with the highest daily count of 14 on 26 June.  Notably, there were 8 CMEs recorded on 29 June, including one flare event.  One flare event, classified as an M1, was detected on 30 June.  No Geostorm events (GSTs) or Flaring events (FLRs) were recorded during this period. The fastest CME recorded during this timeframe reached a speed of 936 km/s.
 
-Looking ahead to upcoming days based on recent trends: Given the fluctuating nature of solar events observed in this week's data, we anticipate continued variability in CME counts and potential geomagnetic storm occurrences as Earth remains within a period of heightened sunspot numbers leading into July. It is advisable to maintain vigilance for any significant changes that could affect space weather impact on our planet’s technological infrastructure.
+**Key Terminology:**
 
-(Word Count: 249)
+*   **Coronal Mass Ejection (CME):** A large eruption of plasma and magnetic field from the Sun’s corona. CMEs are a primary driver of space weather disturbances.
+*   **Flare:** A sudden release of energy from the Sun, often associated with CMEs.
+
+**What to Watch in the Coming Days:**
+
+The observed increase in CME activity warrants continued monitoring. The recent trend of high CME counts suggests a potentially heightened level of space weather activity. We should pay particular attention to the arrival times of these CMEs at Earth, as they could induce geomagnetic storms. These storms can disrupt satellite operations and potentially impact power grids and communication systems.  The magnetosphere, as described, is particularly sensitive to these fluctuations. We will continue to analyse incoming data for further developments. 
+
+---

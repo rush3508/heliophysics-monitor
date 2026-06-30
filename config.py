@@ -104,7 +104,7 @@ CONTROLLED_QUERIES = [
 ]
 
 # ── LLM (phi3:mini via Ollama) ────────────────────────────────────
-OLLAMA_MODEL = "phi3:mini"
+OLLAMA_MODEL = "gemma3:4b"
 OLLAMA_EMBED_MODEL = "nomic-embed-text"
 OLLAMA_CONTEXT_WINDOW = 4096
 
