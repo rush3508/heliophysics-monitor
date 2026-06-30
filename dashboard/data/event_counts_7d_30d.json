@@ -1,12 +1,19 @@
 {
-  "7d": {
-    "CME": 49,
-    "FLR": 2,
-    "GST": 0
-  },
-  "30d": {
-    "CME": 177,
-    "FLR": 21,
-    "GST": 1
+  "groups": [
+    "Last 7 Days",
+    "Last 30 Days"
+  ],
+  "types": [
+    "CME",
+    "FLR",
+    "GST"
+  ],
+  "values": {
+    "7d_CME": 49,
+    "30d_CME": 177,
+    "7d_FLR": 2,
+    "30d_FLR": 21,
+    "7d_GST": 0,
+    "30d_GST": 1
   }
 }

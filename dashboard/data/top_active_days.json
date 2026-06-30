@@ -1,37 +1,44 @@
-[
-  {
-    "date": "2026-02-01",
-    "cme_count": 3,
-    "flr_count": 22,
-    "gst_count": 0,
-    "total_count": 25
-  },
-  {
-    "date": "2026-02-02",
-    "cme_count": 5,
-    "flr_count": 17,
-    "gst_count": 0,
-    "total_count": 22
-  },
-  {
-    "date": "2026-02-05",
-    "cme_count": 8,
-    "flr_count": 13,
-    "gst_count": 0,
-    "total_count": 21
-  },
-  {
-    "date": "2026-02-04",
-    "cme_count": 6,
-    "flr_count": 13,
-    "gst_count": 0,
-    "total_count": 19
-  },
-  {
-    "date": "2026-04-23",
-    "cme_count": 12,
-    "flr_count": 6,
-    "gst_count": 0,
-    "total_count": 18
-  }
-]
+{
+  "days": [
+    {
+      "date": "2026-02-01",
+      "label": "Sun 01 Feb",
+      "total": 25,
+      "cme": 3,
+      "flr": 22,
+      "gst": 0
+    },
+    {
+      "date": "2026-02-02",
+      "label": "Mon 02 Feb",
+      "total": 22,
+      "cme": 5,
+      "flr": 17,
+      "gst": 0
+    },
+    {
+      "date": "2026-02-05",
+      "label": "Thu 05 Feb",
+      "total": 21,
+      "cme": 8,
+      "flr": 13,
+      "gst": 0
+    },
+    {
+      "date": "2026-02-04",
+      "label": "Wed 04 Feb",
+      "total": 19,
+      "cme": 6,
+      "flr": 13,
+      "gst": 0
+    },
+    {
+      "date": "2026-04-23",
+      "label": "Thu 23 Apr",
+      "total": 18,
+      "cme": 12,
+      "flr": 6,
+      "gst": 0
+    }
+  ]
+}
