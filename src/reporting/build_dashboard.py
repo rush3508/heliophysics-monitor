@@ -260,7 +260,16 @@ def build_top_active_days(top_days: list[dict] | None) -> go.Figure | None:
     # Save precomputed data
     _save_json(sorted_days, "top_active_days.json")
 
-    dates = [d["date"] for d in sorted_days]
+    # Format dates for display: "Mon 01 Feb" style
+    from datetime import datetime as dt
+    def _fmt_date(d):
+        try:
+            parsed = dt.strptime(d, "%Y-%m-%d")
+            return parsed.strftime("%a %d %b")  # e.g. "Sun 01 Feb"
+        except (ValueError, TypeError):
+            return d
+
+    dates = [_fmt_date(d["date"]) for d in sorted_days]
     totals = [d.get("total_count", 0) for d in sorted_days]
     cme = [d.get("cme_count", 0) for d in sorted_days]
     flr = [d.get("flr_count", 0) for d in sorted_days]
@@ -293,7 +302,10 @@ def build_top_active_days(top_days: list[dict] | None) -> go.Figure | None:
     fig.update_layout(
         barmode="stack",
         xaxis=dict(title=dict(text="Total Event Count")),
-        yaxis=dict(title=dict(text="")),
+        yaxis=dict(
+            title=dict(text=""),
+            autorange="reversed",  # highest at top
+        ),
         legend=dict(
             orientation="h",
             yanchor="bottom",
@@ -301,8 +313,13 @@ def build_top_active_days(top_days: list[dict] | None) -> go.Figure | None:
             xanchor="right",
             x=1,
         ),
+        hovermode="y unified",
+        margin=dict(l=120, r=20, t=10, b=40),
+        height=300,
     )
     fig = _apply_dark_theme(fig)
+    # Override hovermode back — _apply_dark_theme sets "x unified" which is wrong for horizontal
+    fig.update_layout(hovermode="y unified")
     return fig
 
 
@@ -612,7 +629,7 @@ def build_dashboard() -> Path:
     # (e) Solar disc — CME origins on Stonyhurst projection (last 30 days)
     fig_e = build_solar_disc_figure(days=30)
     panels.append({
-        "css_class": "full-width",
+        "css_class": "panel-full",
         "title": "CME Origins — Solar Disc (last 30 days)",
         "type": "plotly",
         "key": "solar_disc",

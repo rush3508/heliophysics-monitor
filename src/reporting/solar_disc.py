@@ -30,9 +30,9 @@ logger = logging.getLogger(__name__)
 # Solar disc styling
 DISC_BG = "#0a0a1a"
 DISC_RADIUS = 90  # degrees (the solar limb)
-GRID_COLOUR = "rgba(255,255,255,0.08)"
-LIMB_COLOUR = "rgba(255,200,100,0.4)"
-EARTH_DIRECTED_COLOUR = "rgba(0,212,255,0.15)"
+GRID_COLOUR = "rgba(255,255,255,0.15)"
+LIMB_COLOUR = "rgba(255,180,60,0.7)"
+EARTH_DIRECTED_COLOUR = "rgba(0,180,255,0.12)"
 
 # Colour scale: recency (days ago → colour)
 COLOUR_SCALE = [
@@ -321,6 +321,7 @@ def build_solar_disc_figure(days: int = 30) -> go.Figure | None:
             range=[-100, 100],
             scaleanchor="y",
             scaleratio=1,
+            constrain="domain",
             showgrid=False,
             zeroline=False,
             showticklabels=False,
@@ -336,16 +337,18 @@ def build_solar_disc_figure(days: int = 30) -> go.Figure | None:
         plot_bgcolor=DISC_BG,
         paper_bgcolor=DISC_BG,
         font=dict(color="#e0e0e0"),
-        margin=dict(l=10, r=10, t=40, b=10),
+        margin=dict(l=5, r=5, t=45, b=5),
+        height=550,
         legend=dict(
             x=0.01, y=0.99,
-            font=dict(size=10, color="#888"),
-            bgcolor="rgba(0,0,0,0.3)",
+            font=dict(size=10, color="#aaa"),
+            bgcolor="rgba(0,0,0,0.4)",
+            bordercolor="#333",
         ),
         hoverlabel=dict(
             bgcolor="#1a1a2e",
             font=dict(size=11, color="#e0e0e0"),
-            bordercolor="#444",
+            bordercolor="#555",
         ),
     )
 
