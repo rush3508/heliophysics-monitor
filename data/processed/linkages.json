@@ -1,0 +1,2098 @@
+{
+  "edges": [
+    {
+      "from": "2026-01-01T02:15:00-FLR-001",
+      "to": "2026-01-01T03:53:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-01-01T03:53:00-CME-001",
+      "to": "2026-01-01T02:15:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-01-01T17:27:00-FLR-001",
+      "to": "2026-01-01T19:36:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-01-01T19:36:00-CME-001",
+      "to": "2026-01-01T17:27:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-01-01T19:36:00-CME-001",
+      "to": "2026-01-04T20:41:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-01-06T00:10:00-FLR-001",
+      "to": "2026-01-06T02:00:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-01-06T02:00:00-CME-001",
+      "to": "2026-01-06T00:10:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-01-06T02:00:00-CME-001",
+      "to": "2026-01-08T04:57:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-01-06T02:00:00-CME-001",
+      "to": "2026-01-10T15:10:00-RBE-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-06T15:43:00-FLR-001",
+      "to": "2026-01-06T16:38:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-01-06T16:38:00-CME-001",
+      "to": "2026-01-06T15:43:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-01-07T03:44:00-FLR-001",
+      "to": "2026-01-07T04:23:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-01-07T04:23:00-CME-001",
+      "to": "2026-01-07T03:44:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-01-07T06:06:00-FLR-001",
+      "to": "2026-01-07T06:53:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-01-07T06:53:00-CME-001",
+      "to": "2026-01-07T06:06:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-01-08T05:24:00-FLR-001",
+      "to": "2026-01-08T05:53:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-01-08T05:53:00-CME-001",
+      "to": "2026-01-08T05:24:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-01-08T05:53:00-CME-001",
+      "to": "2026-01-10T18:00:00-GST-001",
+      "from_type": "CME",
+      "to_type": "GST"
+    },
+    {
+      "from": "2026-01-08T05:53:00-CME-001",
+      "to": "2026-01-10T19:36:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-01-08T05:53:00-CME-001",
+      "to": "2026-01-11T03:03:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-01-08T05:53:00-CME-001",
+      "to": "2026-01-11T05:56:00-MPC-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-08T05:53:00-CME-001",
+      "to": "2026-01-12T10:05:00-RBE-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-08T15:48:00-CME-001",
+      "to": "2026-01-10T18:00:00-GST-001",
+      "from_type": "CME",
+      "to_type": "GST"
+    },
+    {
+      "from": "2026-01-08T15:48:00-CME-001",
+      "to": "2026-01-10T19:36:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-01-08T15:48:00-CME-001",
+      "to": "2026-01-11T05:56:00-MPC-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-08T15:48:00-CME-001",
+      "to": "2026-01-12T10:05:00-RBE-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-08T16:18:00-FLR-001",
+      "to": "2026-01-08T17:00:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-01-08T17:00:00-CME-001",
+      "to": "2026-01-08T16:18:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-01-08T17:00:00-CME-001",
+      "to": "2026-01-10T18:00:00-GST-001",
+      "from_type": "CME",
+      "to_type": "GST"
+    },
+    {
+      "from": "2026-01-08T17:00:00-CME-001",
+      "to": "2026-01-10T19:36:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-01-08T17:00:00-CME-001",
+      "to": "2026-01-11T05:56:00-MPC-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-08T17:00:00-CME-001",
+      "to": "2026-01-12T10:05:00-RBE-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-08T17:12:00-CME-001",
+      "to": "2026-01-10T18:00:00-GST-001",
+      "from_type": "CME",
+      "to_type": "GST"
+    },
+    {
+      "from": "2026-01-08T17:12:00-CME-001",
+      "to": "2026-01-10T19:36:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-01-08T17:12:00-CME-001",
+      "to": "2026-01-11T05:56:00-MPC-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-08T17:12:00-CME-001",
+      "to": "2026-01-12T10:05:00-RBE-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-08T19:45:00-FLR-001",
+      "to": "2026-01-08T21:48:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-01-08T21:48:00-CME-001",
+      "to": "2026-01-08T19:45:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-01-10T18:00:00-GST-001",
+      "to": "2026-01-08T05:53:00-CME-001",
+      "from_type": "GST",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-01-10T18:00:00-GST-001",
+      "to": "2026-01-08T15:48:00-CME-001",
+      "from_type": "GST",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-01-10T18:00:00-GST-001",
+      "to": "2026-01-08T17:00:00-CME-001",
+      "from_type": "GST",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-01-10T18:00:00-GST-001",
+      "to": "2026-01-08T17:12:00-CME-001",
+      "from_type": "GST",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-01-10T18:00:00-GST-001",
+      "to": "2026-01-10T19:36:00-IPS-001",
+      "from_type": "GST",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-01-10T18:00:00-GST-001",
+      "to": "2026-01-11T05:56:00-MPC-001",
+      "from_type": "GST",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-10T19:31:00-FLR-001",
+      "to": "2026-01-10T20:36:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-01-10T19:31:00-FLR-001",
+      "to": "2026-01-10T20:48:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-01-10T20:36:00-CME-001",
+      "to": "2026-01-10T19:31:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-01-10T20:36:00-CME-001",
+      "to": "2026-01-13T13:43:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-01-10T20:48:00-CME-001",
+      "to": "2026-01-10T19:31:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-01-10T20:48:00-CME-001",
+      "to": "2026-01-13T13:43:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-01-11T21:53:00-FLR-001",
+      "to": "2026-01-11T22:45:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-01-11T22:45:00-CME-001",
+      "to": "2026-01-11T21:53:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-01-14T23:33:00-FLR-001",
+      "to": "2026-01-15T00:36:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-01-15T00:36:00-CME-001",
+      "to": "2026-01-14T23:33:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-01-16T08:47:00-FLR-001",
+      "to": "2026-01-16T09:38:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-01-16T09:38:00-CME-001",
+      "to": "2026-01-16T08:47:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-01-17T02:42:00-FLR-001",
+      "to": "2026-01-17T03:00:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-01-17T03:00:00-CME-001",
+      "to": "2026-01-17T02:42:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-01-18T17:27:00-FLR-001",
+      "to": "2026-01-18T18:09:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-01-18T17:27:00-FLR-001",
+      "to": "2026-01-18T22:33:00-SEP-001",
+      "from_type": "FLR",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-18T17:27:00-FLR-001",
+      "to": "2026-01-18T22:55:00-SEP-001",
+      "from_type": "FLR",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-18T17:27:00-FLR-001",
+      "to": "2026-01-19T02:57:00-SEP-001",
+      "from_type": "FLR",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-18T17:27:00-FLR-001",
+      "to": "2026-01-19T04:15:00-SEP-001",
+      "from_type": "FLR",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-18T17:27:00-FLR-001",
+      "to": "2026-01-19T04:36:00-SEP-001",
+      "from_type": "FLR",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-18T17:27:00-FLR-001",
+      "to": "2026-01-19T06:05:00-SEP-001",
+      "from_type": "FLR",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-18T17:27:00-FLR-001",
+      "to": "2026-01-19T06:39:00-SEP-001",
+      "from_type": "FLR",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-18T17:27:00-FLR-001",
+      "to": "2026-01-19T10:58:00-SEP-001",
+      "from_type": "FLR",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-18T17:27:00-FLR-001",
+      "to": "2026-01-21T03:00:00-SEP-001",
+      "from_type": "FLR",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-18T18:09:00-CME-001",
+      "to": "2026-01-18T17:27:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-01-18T18:09:00-CME-001",
+      "to": "2026-01-18T22:33:00-SEP-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-18T18:09:00-CME-001",
+      "to": "2026-01-18T22:55:00-SEP-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-18T18:09:00-CME-001",
+      "to": "2026-01-19T02:57:00-SEP-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-18T18:09:00-CME-001",
+      "to": "2026-01-19T04:15:00-SEP-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-18T18:09:00-CME-001",
+      "to": "2026-01-19T04:36:00-SEP-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-18T18:09:00-CME-001",
+      "to": "2026-01-19T06:05:00-SEP-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-18T18:09:00-CME-001",
+      "to": "2026-01-19T06:39:00-SEP-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-18T18:09:00-CME-001",
+      "to": "2026-01-19T10:58:00-SEP-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-18T18:09:00-CME-001",
+      "to": "2026-01-19T18:00:00-GST-001",
+      "from_type": "CME",
+      "to_type": "GST"
+    },
+    {
+      "from": "2026-01-18T18:09:00-CME-001",
+      "to": "2026-01-19T18:55:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-01-18T18:09:00-CME-001",
+      "to": "2026-01-19T22:49:00-MPC-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-18T18:09:00-CME-001",
+      "to": "2026-01-21T03:00:00-SEP-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-18T18:09:00-CME-001",
+      "to": "2026-01-21T03:04:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-01-18T18:09:00-CME-001",
+      "to": "2026-01-21T09:30:00-RBE-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-19T11:09:00-FLR-001",
+      "to": "2026-01-18T22:55:00-SEP-001",
+      "from_type": "FLR",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-19T18:00:00-GST-001",
+      "to": "2026-01-18T18:09:00-CME-001",
+      "from_type": "GST",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-01-19T18:00:00-GST-001",
+      "to": "2026-01-19T18:55:00-IPS-001",
+      "from_type": "GST",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-01-19T18:00:00-GST-001",
+      "to": "2026-01-19T22:49:00-MPC-001",
+      "from_type": "GST",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-01-20T05:28:00-FLR-001",
+      "to": "2026-01-20T06:36:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-01-20T06:36:00-CME-001",
+      "to": "2026-01-20T05:28:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-01-25T10:12:00-FLR-001",
+      "to": "2026-01-25T12:00:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-01-25T12:00:00-CME-001",
+      "to": "2026-01-25T10:12:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-01-25T12:00:00-CME-001",
+      "to": "2026-01-29T03:19:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-01-25T19:06:00-FLR-001",
+      "to": "2026-01-25T20:12:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-01-25T20:12:00-CME-001",
+      "to": "2026-01-25T19:06:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-01-25T20:12:00-CME-001",
+      "to": "2026-01-29T03:19:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-01-25T21:36:00-FLR-001",
+      "to": "2026-01-25T21:48:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-01-25T21:48:00-CME-001",
+      "to": "2026-01-25T21:36:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-01-25T21:48:00-CME-001",
+      "to": "2026-01-29T03:19:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-01-27T09:39:00-FLR-001",
+      "to": "2026-01-27T10:36:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-01-27T10:36:00-CME-001",
+      "to": "2026-01-27T09:39:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-01-29T14:04:00-FLR-001",
+      "to": "2026-01-29T15:00:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-01-29T15:00:00-CME-001",
+      "to": "2026-01-29T14:04:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-01-31T04:49:00-FLR-001",
+      "to": "2026-01-31T05:12:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-01-31T05:12:00-CME-001",
+      "to": "2026-01-31T04:49:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-01-31T18:21:00-FLR-001",
+      "to": "2026-02-01T12:48:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-02-01T12:48:00-CME-001",
+      "to": "2026-01-31T18:21:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-02-01T23:44:00-FLR-001",
+      "to": "2026-02-02T00:48:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-02-02T00:31:00-FLR-001",
+      "to": "2026-02-02T00:48:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-02-02T00:48:00-CME-001",
+      "to": "2026-02-01T23:44:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-02-02T00:48:00-CME-001",
+      "to": "2026-02-02T00:31:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-02-02T00:48:00-CME-001",
+      "to": "2026-02-04T14:20:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-02-02T00:48:00-CME-001",
+      "to": "2026-02-05T03:55:00-MPC-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-02-02T00:48:00-CME-001",
+      "to": "2026-02-07T13:25:00-RBE-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-02-02T02:45:00-FLR-001",
+      "to": "2026-02-02T03:12:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-02-02T03:12:00-CME-001",
+      "to": "2026-02-02T02:45:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-02-02T11:15:00-FLR-001",
+      "to": "2026-02-02T12:24:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-02-02T12:24:00-CME-001",
+      "to": "2026-02-02T11:15:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-02-05T12:42:00-FLR-001",
+      "to": "2026-02-05T13:26:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-02-05T13:26:00-CME-001",
+      "to": "2026-02-05T12:42:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-02-05T15:08:00-FLR-001",
+      "to": "2026-02-05T15:48:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-02-05T15:48:00-CME-001",
+      "to": "2026-02-05T15:08:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-02-05T15:48:00-CME-001",
+      "to": "2026-02-08T15:42:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-02-05T19:28:00-FLR-001",
+      "to": "2026-02-05T20:00:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-02-05T20:00:00-CME-001",
+      "to": "2026-02-05T19:28:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-02-07T23:00:00-CME-001",
+      "to": "2026-02-11T03:41:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-02-09T22:53:00-FLR-001",
+      "to": "2026-02-09T23:24:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-02-09T23:24:00-CME-001",
+      "to": "2026-02-09T22:53:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-02-13T08:28:00-FLR-001",
+      "to": "2026-02-13T09:38:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-02-13T09:38:00-CME-001",
+      "to": "2026-02-13T08:28:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-02-16T04:03:00-FLR-001",
+      "to": "2026-02-16T04:24:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-02-16T04:24:00-CME-001",
+      "to": "2026-02-16T04:03:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-02-16T12:30:00-FLR-001",
+      "to": "2026-02-16T13:23:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-02-16T13:23:00-CME-001",
+      "to": "2026-02-16T12:30:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-02-16T14:08:00-CME-001",
+      "to": "2026-02-20T22:35:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-02-16T18:00:00-GST-001",
+      "to": "2026-02-14T15:30:00-HSS-001",
+      "from_type": "GST",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-02-18T20:17:00-FLR-001",
+      "to": "2026-02-18T20:36:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-02-18T20:36:00-CME-001",
+      "to": "2026-02-18T20:17:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-02-22T15:26:00-FLR-001",
+      "to": "2026-02-22T18:45:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-02-22T18:45:00-CME-001",
+      "to": "2026-02-22T15:26:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-02-22T18:45:00-CME-001",
+      "to": "2026-02-26T08:30:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-02-25T06:41:00-FLR-001",
+      "to": "2026-02-25T07:38:00-CME-002",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-02-25T07:38:00-CME-002",
+      "to": "2026-02-25T06:41:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-02-25T15:35:00-FLR-001",
+      "to": "2026-02-25T16:24:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-02-25T16:24:00-CME-001",
+      "to": "2026-02-25T15:35:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-03-01T06:07:00-FLR-001",
+      "to": "2026-03-01T07:24:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-03-01T07:24:00-CME-001",
+      "to": "2026-03-01T06:07:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-03-01T07:30:00-FLR-001",
+      "to": "2026-03-01T09:36:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-03-01T09:36:00-CME-001",
+      "to": "2026-03-01T07:30:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-03-01T21:41:00-FLR-001",
+      "to": "2026-03-01T22:15:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-03-01T22:15:00-CME-001",
+      "to": "2026-03-01T21:41:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-03-08T15:02:00-FLR-001",
+      "to": "2026-03-08T18:08:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-03-08T18:08:00-CME-001",
+      "to": "2026-03-08T15:02:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-03-10T11:22:00-FLR-001",
+      "to": "2026-03-10T12:24:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-03-10T12:24:00-CME-001",
+      "to": "2026-03-10T11:22:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-03-13T20:09:00-FLR-001",
+      "to": "2026-03-13T20:48:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-03-13T20:48:00-CME-001",
+      "to": "2026-03-13T20:09:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-03-13T21:00:00-GST-001",
+      "to": "2026-03-13T07:06:00-IPS-001",
+      "from_type": "GST",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-03-13T21:00:00-GST-001",
+      "to": "2026-03-13T08:08:00-HSS-001",
+      "from_type": "GST",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-03-15T09:21:00-FLR-001",
+      "to": "2026-03-15T10:36:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-03-15T10:36:00-CME-001",
+      "to": "2026-03-15T09:21:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-03-16T12:00:00-FLR-001",
+      "to": "2026-03-16T13:26:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-03-16T13:26:00-CME-001",
+      "to": "2026-03-16T12:00:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-03-17T05:08:00-CME-001",
+      "to": "2026-03-20T01:31:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-03-17T05:08:00-CME-001",
+      "to": "2026-03-22T14:15:00-RBE-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-03-17T06:38:00-CME-001",
+      "to": "2026-03-20T01:31:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-03-17T06:38:00-CME-001",
+      "to": "2026-03-22T14:15:00-RBE-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-03-17T08:23:00-CME-001",
+      "to": "2026-03-20T01:31:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-03-17T08:23:00-CME-001",
+      "to": "2026-03-22T14:15:00-RBE-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-03-17T08:55:00-FLR-001",
+      "to": "2026-03-17T10:53:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-03-17T10:53:00-CME-001",
+      "to": "2026-03-17T08:55:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-03-17T10:53:00-CME-001",
+      "to": "2026-03-20T01:31:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-03-17T10:53:00-CME-001",
+      "to": "2026-03-22T14:15:00-RBE-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-03-18T08:26:00-FLR-001",
+      "to": "2026-03-18T09:23:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-03-18T09:23:00-CME-001",
+      "to": "2026-03-18T08:26:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-03-18T09:23:00-CME-001",
+      "to": "2026-03-20T18:00:00-GST-001",
+      "from_type": "CME",
+      "to_type": "GST"
+    },
+    {
+      "from": "2026-03-18T09:23:00-CME-001",
+      "to": "2026-03-20T20:17:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-03-18T09:23:00-CME-001",
+      "to": "2026-03-20T21:13:00-MPC-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-03-18T09:23:00-CME-001",
+      "to": "2026-03-21T10:56:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-03-18T09:23:00-CME-001",
+      "to": "2026-03-22T14:15:00-RBE-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-03-20T18:00:00-GST-001",
+      "to": "2026-03-18T09:23:00-CME-001",
+      "from_type": "GST",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-03-20T18:00:00-GST-001",
+      "to": "2026-03-20T20:17:00-IPS-001",
+      "from_type": "GST",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-03-20T18:00:00-GST-001",
+      "to": "2026-03-20T21:13:00-MPC-001",
+      "from_type": "GST",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-03-21T17:00:00-CME-001",
+      "to": "2026-03-24T11:51:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-03-22T09:00:00-GST-001",
+      "to": "2026-03-21T19:13:00-HSS-001",
+      "from_type": "GST",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-03-22T16:23:00-CME-001",
+      "to": "2026-03-25T05:53:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-03-22T22:56:00-FLR-001",
+      "to": "2026-03-22T23:24:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-03-22T23:24:00-CME-001",
+      "to": "2026-03-22T22:56:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-03-22T23:24:00-CME-001",
+      "to": "2026-03-25T03:38:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-03-23T02:36:00-CME-001",
+      "to": "2026-03-25T03:38:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-03-24T17:18:00-FLR-001",
+      "to": "2026-03-24T20:15:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-03-24T20:15:00-CME-001",
+      "to": "2026-03-24T17:18:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-03-24T23:52:00-FLR-001",
+      "to": "2026-03-25T00:45:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-03-25T00:45:00-CME-001",
+      "to": "2026-03-24T23:52:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-03-26T06:11:00-FLR-001",
+      "to": "2026-03-26T06:48:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-03-26T06:48:00-CME-001",
+      "to": "2026-03-26T06:11:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-03-28T02:16:00-FLR-001",
+      "to": "2026-03-28T03:48:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-03-28T03:48:00-CME-001",
+      "to": "2026-03-28T02:16:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-03-28T11:18:00-FLR-001",
+      "to": "2026-03-28T12:23:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-03-28T12:23:00-CME-001",
+      "to": "2026-03-28T11:18:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-03-30T02:47:00-FLR-001",
+      "to": "2026-03-30T03:24:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-03-30T03:24:00-CME-001",
+      "to": "2026-03-30T02:47:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-03-30T03:24:00-CME-001",
+      "to": "2026-04-01T11:29:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-03-31T00:55:00-FLR-001",
+      "to": "2026-03-31T01:48:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-03-31T01:48:00-CME-001",
+      "to": "2026-03-31T00:55:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-03-31T10:27:00-FLR-001",
+      "to": "2026-03-31T11:24:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-03-31T11:24:00-CME-001",
+      "to": "2026-03-31T10:27:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-04-01T13:38:00-FLR-001",
+      "to": "2026-04-01T15:48:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-04-01T15:48:00-CME-001",
+      "to": "2026-04-01T13:38:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-04-01T23:08:00-FLR-001",
+      "to": "2026-04-01T23:45:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-04-01T23:45:00-CME-001",
+      "to": "2026-04-01T23:08:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-04-01T23:45:00-CME-001",
+      "to": "2026-04-03T15:00:00-GST-001",
+      "from_type": "CME",
+      "to_type": "GST"
+    },
+    {
+      "from": "2026-04-01T23:45:00-CME-001",
+      "to": "2026-04-03T15:02:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-04-01T23:45:00-CME-001",
+      "to": "2026-04-04T10:55:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-04-02T15:00:00-GST-001",
+      "to": "2026-04-02T03:37:00-HSS-001",
+      "from_type": "GST",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-04-02T17:23:00-FLR-001",
+      "to": "2026-04-02T18:48:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-04-02T18:48:00-CME-001",
+      "to": "2026-04-02T17:23:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-04-03T15:00:00-GST-001",
+      "to": "2026-04-01T23:45:00-CME-001",
+      "from_type": "GST",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-04-03T15:00:00-GST-001",
+      "to": "2026-04-03T15:02:00-IPS-001",
+      "from_type": "GST",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-04-07T23:10:00-FLR-001",
+      "to": "2026-04-08T00:15:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-04-08T00:15:00-CME-001",
+      "to": "2026-04-07T23:10:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-04-10T06:09:00-CME-001",
+      "to": "2026-04-13T10:31:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-04-10T06:24:00-CME-001",
+      "to": "2026-04-13T10:31:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-04-18T06:00:00-GST-001",
+      "to": "2026-04-18T01:33:00-HSS-001",
+      "from_type": "GST",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-04-23T04:24:00-FLR-001",
+      "to": "2026-04-23T05:00:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-04-23T04:41:00-FLR-001",
+      "to": "2026-04-23T05:12:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-04-23T05:00:00-CME-001",
+      "to": "2026-04-23T04:24:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-04-23T05:12:00-CME-001",
+      "to": "2026-04-23T04:41:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-04-23T05:12:00-CME-001",
+      "to": "2026-04-25T19:28:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-04-23T08:40:00-FLR-001",
+      "to": "2026-04-23T09:12:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-04-23T09:12:00-CME-001",
+      "to": "2026-04-23T08:40:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-04-23T13:42:00-FLR-001",
+      "to": "2026-04-23T14:24:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-04-23T14:24:00-CME-001",
+      "to": "2026-04-23T13:42:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-04-23T14:24:00-CME-001",
+      "to": "2026-04-26T03:51:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-04-23T16:30:00-CME-001",
+      "to": "2026-04-26T03:51:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-04-23T17:00:00-FLR-001",
+      "to": "2026-04-23T18:00:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-04-23T18:00:00-CME-001",
+      "to": "2026-04-23T17:00:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-04-23T18:00:00-CME-001",
+      "to": "2026-04-26T03:51:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-04-24T00:51:00-FLR-001",
+      "to": "2026-04-24T01:24:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-04-24T01:24:00-CME-001",
+      "to": "2026-04-24T00:51:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-04-24T01:24:00-CME-001",
+      "to": "2026-04-26T03:51:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-04-24T08:01:00-FLR-001",
+      "to": "2026-04-24T08:24:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-04-24T08:24:00-CME-001",
+      "to": "2026-04-24T08:01:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-04-24T08:24:00-CME-001",
+      "to": "2026-04-26T03:51:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-04-24T08:57:00-FLR-001",
+      "to": "2026-04-24T09:08:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-04-24T09:08:00-CME-001",
+      "to": "2026-04-24T08:57:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-04-24T17:54:00-FLR-001",
+      "to": "2026-04-24T19:30:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-04-24T19:30:00-CME-001",
+      "to": "2026-04-24T17:54:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-04-26T00:08:00-FLR-001",
+      "to": "2026-04-26T01:48:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-04-26T01:48:00-CME-001",
+      "to": "2026-04-26T00:08:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-04-30T12:38:00-CME-001",
+      "to": "2026-05-04T04:10:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-04-30T12:38:00-CME-001",
+      "to": "2026-05-04T10:00:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-04-30T12:38:00-CME-001",
+      "to": "2026-05-04T18:00:00-GST-001",
+      "from_type": "CME",
+      "to_type": "GST"
+    },
+    {
+      "from": "2026-04-30T18:24:00-CME-001",
+      "to": "2026-05-04T04:10:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-04-30T18:24:00-CME-001",
+      "to": "2026-05-04T10:00:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-04-30T18:24:00-CME-001",
+      "to": "2026-05-04T18:00:00-GST-001",
+      "from_type": "CME",
+      "to_type": "GST"
+    },
+    {
+      "from": "2026-05-02T10:44:00-FLR-001",
+      "to": "2026-05-02T11:24:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-05-02T11:24:00-CME-001",
+      "to": "2026-05-02T10:44:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-05-02T18:30:00-FLR-001",
+      "to": "2026-05-02T19:00:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-05-02T19:00:00-CME-001",
+      "to": "2026-05-02T18:30:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-05-04T18:00:00-GST-001",
+      "to": "2026-04-30T12:38:00-CME-001",
+      "from_type": "GST",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-05-04T18:00:00-GST-001",
+      "to": "2026-04-30T18:24:00-CME-001",
+      "from_type": "GST",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-05-04T18:00:00-GST-001",
+      "to": "2026-05-04T04:10:00-IPS-001",
+      "from_type": "GST",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-05-07T14:20:00-FLR-001",
+      "to": "2026-05-07T15:23:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-05-07T15:23:00-CME-001",
+      "to": "2026-05-07T14:20:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-05-10T13:19:00-FLR-001",
+      "to": "2026-05-10T13:48:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-05-10T13:48:00-CME-001",
+      "to": "2026-05-10T13:19:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-05-10T13:48:00-CME-001",
+      "to": "2026-05-13T07:22:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-05-13T19:35:00-FLR-001",
+      "to": "2026-05-13T22:24:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-05-13T22:24:00-CME-001",
+      "to": "2026-05-13T19:35:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-05-13T22:24:00-CME-001",
+      "to": "2026-05-17T13:40:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-05-15T01:36:00-CME-001",
+      "to": "2026-05-18T03:10:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-05-15T02:52:00-FLR-001",
+      "to": "2026-05-15T03:38:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-05-15T03:38:00-CME-001",
+      "to": "2026-05-15T02:52:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-05-15T13:10:00-FLR-001",
+      "to": "2026-05-15T13:48:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-05-15T13:48:00-CME-001",
+      "to": "2026-05-15T13:10:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-05-15T16:05:00-FLR-001",
+      "to": "2026-05-15T16:48:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-05-15T16:48:00-CME-001",
+      "to": "2026-05-15T16:05:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-05-15T21:00:00-GST-001",
+      "to": "2026-05-15T07:14:00-IPS-001",
+      "from_type": "GST",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-05-15T21:00:00-GST-001",
+      "to": "2026-05-15T08:45:00-HSS-001",
+      "from_type": "GST",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-05-16T15:50:00-FLR-001",
+      "to": "2026-05-16T16:36:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-05-16T16:36:00-CME-001",
+      "to": "2026-05-16T15:50:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-05-16T16:36:00-CME-001",
+      "to": "2026-05-19T06:31:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-05-16T17:39:00-FLR-001",
+      "to": "2026-05-16T20:30:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-05-16T20:30:00-CME-001",
+      "to": "2026-05-16T17:39:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-05-17T03:29:00-FLR-001",
+      "to": "2026-05-17T04:24:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-05-17T04:24:00-CME-001",
+      "to": "2026-05-17T03:29:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-05-19T10:22:00-FLR-001",
+      "to": "2026-05-19T11:01:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-05-19T11:01:00-CME-001",
+      "to": "2026-05-19T10:22:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-05-22T10:03:00-FLR-001",
+      "to": "2026-05-22T10:48:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-05-22T10:48:00-CME-001",
+      "to": "2026-05-22T10:03:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-05-23T06:48:00-CME-001",
+      "to": "2026-05-26T01:30:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-05-23T16:00:00-CME-001",
+      "to": "2026-05-26T01:30:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-05-24T09:12:00-CME-001",
+      "to": "2026-05-27T01:25:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-05-25T22:12:00-CME-001",
+      "to": "2026-05-25T23:31:00-SEP-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-05-25T22:12:00-CME-001",
+      "to": "2026-05-25T23:31:00-SEP-002",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-05-25T22:12:00-CME-001",
+      "to": "2026-05-25T23:34:00-SEP-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-05-25T22:12:00-CME-001",
+      "to": "2026-05-25T23:35:00-SEP-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-05-25T22:12:00-CME-001",
+      "to": "2026-05-25T23:35:00-SEP-003",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-05-25T22:12:00-CME-001",
+      "to": "2026-05-25T23:39:00-SEP-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-05-25T22:12:00-CME-001",
+      "to": "2026-05-26T00:15:00-SEP-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-05-25T22:12:00-CME-001",
+      "to": "2026-05-26T04:07:00-SEP-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-06-02T02:40:00-FLR-001",
+      "to": "2026-06-02T03:12:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-06-02T03:12:00-CME-001",
+      "to": "2026-06-02T02:40:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-06-02T06:46:00-FLR-001",
+      "to": "2026-06-02T07:24:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-06-02T07:24:00-CME-001",
+      "to": "2026-06-02T06:46:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-06-02T16:31:00-FLR-001",
+      "to": "2026-06-02T17:23:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-06-02T17:23:00-CME-001",
+      "to": "2026-06-02T16:31:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-06-03T01:22:00-FLR-001",
+      "to": "2026-06-03T01:53:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-06-03T01:53:00-CME-001",
+      "to": "2026-06-03T01:22:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-06-03T01:53:00-CME-001",
+      "to": "2026-06-05T04:23:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-06-03T01:53:00-CME-001",
+      "to": "2026-06-05T15:00:00-GST-001",
+      "from_type": "CME",
+      "to_type": "GST"
+    },
+    {
+      "from": "2026-06-03T01:53:00-CME-001",
+      "to": "2026-06-06T16:15:00-RBE-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-06-03T06:49:00-FLR-001",
+      "to": "2026-06-03T07:23:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-06-03T07:23:00-CME-001",
+      "to": "2026-06-03T06:49:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-06-03T11:19:00-FLR-001",
+      "to": "2026-06-03T11:48:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-06-03T11:48:00-CME-001",
+      "to": "2026-06-03T11:19:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-06-03T11:48:00-CME-001",
+      "to": "2026-06-05T12:06:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-06-03T11:48:00-CME-001",
+      "to": "2026-06-05T15:00:00-GST-001",
+      "from_type": "CME",
+      "to_type": "GST"
+    },
+    {
+      "from": "2026-06-03T11:48:00-CME-001",
+      "to": "2026-06-06T16:15:00-RBE-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-06-05T15:00:00-GST-001",
+      "to": "2026-06-03T01:53:00-CME-001",
+      "from_type": "GST",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-06-05T15:00:00-GST-001",
+      "to": "2026-06-03T11:48:00-CME-001",
+      "from_type": "GST",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-06-05T15:00:00-GST-001",
+      "to": "2026-06-05T04:23:00-IPS-001",
+      "from_type": "GST",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-06-05T15:00:00-GST-001",
+      "to": "2026-06-05T12:06:00-IPS-001",
+      "from_type": "GST",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-06-06T13:40:00-FLR-001",
+      "to": "2026-06-06T14:11:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-06-06T13:40:00-FLR-001",
+      "to": "2026-06-06T15:14:00-SEP-001",
+      "from_type": "FLR",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-06-06T14:11:00-CME-001",
+      "to": "2026-06-06T13:40:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-06-06T14:11:00-CME-001",
+      "to": "2026-06-06T15:14:00-SEP-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-06-06T14:11:00-CME-001",
+      "to": "2026-06-09T09:53:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-06-09T19:02:00-FLR-001",
+      "to": "2026-06-09T21:36:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-06-09T21:36:00-CME-001",
+      "to": "2026-06-09T19:02:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-06-10T23:30:00-FLR-001",
+      "to": "2026-06-11T00:36:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-06-11T00:36:00-CME-001",
+      "to": "2026-06-10T23:30:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-06-11T00:36:00-CME-001",
+      "to": "2026-06-13T09:51:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-06-11T08:22:00-FLR-001",
+      "to": "2026-06-11T09:48:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-06-11T09:48:00-CME-001",
+      "to": "2026-06-11T08:22:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-06-13T12:40:00-FLR-001",
+      "to": "2026-06-13T13:26:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-06-13T13:26:00-CME-001",
+      "to": "2026-06-13T12:40:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-06-19T03:53:00-CME-001",
+      "to": "2026-06-23T03:43:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-06-19T03:53:00-CME-001",
+      "to": "2026-06-26T13:45:00-RBE-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-06-20T01:26:00-FLR-001",
+      "to": "2026-06-20T02:12:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-06-20T02:12:00-CME-001",
+      "to": "2026-06-20T01:26:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-06-20T02:12:00-CME-001",
+      "to": "2026-06-24T04:05:00-IPS-001",
+      "from_type": "CME",
+      "to_type": "IPS"
+    },
+    {
+      "from": "2026-06-20T02:12:00-CME-001",
+      "to": "2026-06-26T13:45:00-RBE-001",
+      "from_type": "CME",
+      "to_type": "UNKNOWN"
+    },
+    {
+      "from": "2026-06-21T02:25:00-FLR-001",
+      "to": "2026-06-21T03:36:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-06-21T03:36:00-CME-001",
+      "to": "2026-06-21T02:25:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-06-21T19:17:00-FLR-001",
+      "to": "2026-06-21T20:00:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-06-21T20:00:00-CME-001",
+      "to": "2026-06-21T19:17:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    },
+    {
+      "from": "2026-06-29T21:13:00-FLR-001",
+      "to": "2026-06-29T22:24:00-CME-001",
+      "from_type": "FLR",
+      "to_type": "CME"
+    },
+    {
+      "from": "2026-06-29T22:24:00-CME-001",
+      "to": "2026-06-29T21:13:00-FLR-001",
+      "from_type": "CME",
+      "to_type": "FLR"
+    }
+  ]
+}

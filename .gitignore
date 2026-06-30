@@ -1,0 +1,27 @@
+# DONKI raw data (large, regenerated on each run)
+data/raw/
+
+# Scraped corpus text (regenerated via --build-corpus)
+data/corpus/
+
+# ChromaDB vector store (large binary, regenerated)
+docs/corpus/chroma/
+
+# Python
+__pycache__/
+.venv/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Pipeline warnings (runtime artefact)
+reports/pipeline_warnings.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment (contains API key)
+.env
